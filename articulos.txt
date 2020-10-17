@@ -1,0 +1,4 @@
+CPU;300
+Placa;80
+RAM;80
+Disco;60
